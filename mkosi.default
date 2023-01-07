@@ -3,13 +3,13 @@ Distribution=fedora
 Release=37
 Architecture=aarch64
 UseHostRepositories=yes
-Repositories=fedora,updates,asahi-linux
+Repositories=fedora,updates,asahi-linux,ultramarine,terra
 
 [Output]
 Format=directory
 Output=mkosi.rootfs
 Bootable=no
-Hostname=fedora
+Hostname=ultramarine
 
 
 [Content]
@@ -75,4 +75,4 @@ Packages=
     zram-generator-defaults
 
 [Validation]
-Password=fedora
+Password=ultramarine
