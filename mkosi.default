@@ -59,10 +59,20 @@ Packages=
     python3-asahi_firmware
     rootfiles
     rpm
+    https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-37.noarch.rpm
+    https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-37.noarch.rpm
     rsync
     selinux-policy
     sudo
     tar
+    ultramarine-logos
+    ultramarine-logos-httpd
+    ultramarine-release
+    ultramarine-release-basic
+    ultramarine-release-common
+    ultramarine-release-identity-basic
+    ultramarine-repos
+    ultramarine-repos-extras
     update-m1n1
     usbutils
     vim-enhanced
